@@ -23,9 +23,11 @@ Embedded C for the Flipper Zero, network and system tooling, and a self-improvin
 I publish long-form research and essays on Substack, mostly on AI systems, autonomy, and the places technology meets law and the real world.
 
 ### Public projects
+- [harness-parity](https://github.com/viraansh14/harness-parity): capability parity study of 17 agent harnesses, with the skills and hooks it produced
 - [holo3d](https://github.com/viraansh14/holo3d): DIY holographic display, Pepper's Ghost pyramid driven from a phone
-- [adblock-guard](https://github.com/viraansh14/adblock-guard): system-wide ad blocking stack for macOS and iOS
+- [hf-video-skill](https://github.com/viraansh14/hf-video-skill): TDD build of an AI video-production skill with quality-control gates
 - [vajra-memory-sync](https://github.com/viraansh14/vajra-memory-sync): cross-machine memory sync over a git peer protocol
+- [adblock-guard](https://github.com/viraansh14/adblock-guard): system-wide ad blocking stack for macOS and iOS
 
 ### Tools I reach for
 Rust · TypeScript / Next.js · Python · Swift · Flutter · Embedded C · multi-agent AI systems

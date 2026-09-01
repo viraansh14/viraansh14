@@ -26,7 +26,7 @@ I publish long-form research and essays on Substack, mostly on AI systems, auton
 - [harness-parity](https://github.com/viraansh14/harness-parity): capability parity study of 17 agent harnesses, with the skills and hooks it produced
 - [holo3d](https://github.com/viraansh14/holo3d): DIY holographic display, Pepper's Ghost pyramid driven from a phone
 - [hf-video-skill](https://github.com/viraansh14/hf-video-skill): TDD build of an AI video-production skill with quality-control gates
-- [vajra-memory-sync](https://github.com/viraansh14/vajra-memory-sync): cross-machine memory sync over a git peer protocol
+- [vajra-harness](https://github.com/viraansh14/vajra-harness): cross-machine agent coordination bus plus memory sync (the infrastructure two of my machines run on)
 - [adblock-guard](https://github.com/viraansh14/adblock-guard): system-wide ad blocking stack for macOS and iOS
 - [polymarket-bot](https://github.com/viraansh14/polymarket-bot): automated Polymarket trading bot in Python
 

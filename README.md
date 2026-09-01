@@ -28,6 +28,7 @@ I publish long-form research and essays on Substack, mostly on AI systems, auton
 - [hf-video-skill](https://github.com/viraansh14/hf-video-skill): TDD build of an AI video-production skill with quality-control gates
 - [vajra-memory-sync](https://github.com/viraansh14/vajra-memory-sync): cross-machine memory sync over a git peer protocol
 - [adblock-guard](https://github.com/viraansh14/adblock-guard): system-wide ad blocking stack for macOS and iOS
+- [polymarket-bot](https://github.com/viraansh14/polymarket-bot): automated Polymarket trading bot in Python
 
 ### Tools I reach for
 Rust · TypeScript / Next.js · Python · Swift · Flutter · Embedded C · multi-agent AI systems
